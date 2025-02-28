@@ -100,9 +100,16 @@
 ## Step-16 Dynamic Programming (Patterns & Problems)
 1. Lec-1 Introduction to DP
 2. Lec-2 1D-DP
+3. Lec-3 2D/3D DP & DP on Grids
+4. Lec-4 DP on Subsequences
+5. Lec-5 DP on Strings
+6. Lec-6 DP on Stocks
+7. Lec-7 DP on LIS (Longest Increasing Subsequences)
+8. Lec-8 Matrix Chain Multiplication(MCM) DP | Partition DP
+9. Lec-9 DP on Squares & Rectangles 
 
 
 ## Step-17 Tries
 1. Lec-1 Learning
 2. Lec-2 Practice Problems
-   
+
